@@ -37,6 +37,6 @@ Siga a ordem numérica dos módulos: **01 → 02 → 03 → 04**.
 Cada módulo termina com um link para o próximo.
 
 ## Autoria
-- **Nome:** Pedro Fernandes
+- **Nome:** Yan Gabriel Daud dos Santos Pereira
 - **Contexto:** Projeto final — Git e GitHub (UCB)
 - **Data:** setembro de 2026
