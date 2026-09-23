@@ -1,7 +1,7 @@
 # Fundamentos de Swift
 
 ## Objetivo
-Aprendizado em linguagem Swift, do zero até o primeiro app para iOS.
+Ensinar os fundamentos de Swift a iniciantes, do zero até o primeiro app para iOS.
 
 ## Público-alvo
 Descreva para quem o guia foi criado.
